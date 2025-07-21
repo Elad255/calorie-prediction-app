@@ -49,8 +49,8 @@ This app was built with **Streamlit** and can be deployed using **localtunnel**,
 
 ##  Model Performance
 
--  Root Mean Squared Error (RMSE): *~[your RMSE]*
--  R² Score: *~[your R²]*
+-  Root Mean Squared Error (RMSE)
+-  R² Score
 
 ---
 
